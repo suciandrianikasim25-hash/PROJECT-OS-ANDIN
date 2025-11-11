@@ -32,7 +32,7 @@ echo "Contoh gambar dokumen" > file1.txt
 echo "Data gambar" >> file11.jpg
 ~~~
 ~~~
-echo "Log sistem contoh" >> file20.log
+echo "Log contoh" >> file20.log
 ~~~
 Penjelasan:
 - `mkdir` → membuat folder baru.
